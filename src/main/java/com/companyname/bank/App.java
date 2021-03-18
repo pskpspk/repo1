@@ -1,4 +1,4 @@
-package pro.ss;
+package com.companyname.bank;
 
 /**
  * Hello world!
