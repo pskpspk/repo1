@@ -1,4 +1,4 @@
-package com.companyname.bank;
+package pro.ss;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
